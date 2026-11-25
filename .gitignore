@@ -1,0 +1,6 @@
+.env
+__pycache__/
+alertas/
+datos/fotos/
+datos/zonas/*.jpg
+datos/cache_detecciones.json
